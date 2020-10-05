@@ -146,9 +146,7 @@ a.text-white-link:active {
 }
 
 /* Black hrefs & hrs too */
-.href-black {
-	color: #000000;
-}
+
 .hr-black {
 	border-color: #000000;
 	color: #000000;
@@ -166,12 +164,12 @@ a.text-white-link:active {
 /* 	Add border to the images on the "Fun Stuff" section 
 		https://www.w3schools.com/csS/css3_images.asp
 */
-.images-border {
+#href-black1 ,.images-border {
 	border: .5em solid #000000;
 	border-radius: 3em;
 }
 
-.images-border-skiing {
+#href-black2 ,.images-border-skiing {
 	border: .5em solid #000000;
 	border-radius: 50%;
 }
